@@ -1,0 +1,5 @@
+This repository contains 6 files , one of which is apple sales ,which is basically the visulization of apple sales data from FY 2005 to 2025 .The data was gathered through kaggle and was cleaned through mysql and was used in powerbi using mysql connector.
+The file name Ashok leyland is a Discounted Cashflow model for obtaining the valuation of the company.Data was gathered from investor relations of Ashok leyland.
+The file name Tata motors contains the PowerBi visualization of balance sheet of TataMotors.This data was gathered from the investor relations website of TataMotors.This project was done to get the overview of the business of Tatamotors.
+The file name nifty_50_monthly.xlsx is the analysis of nifty 50 data from 2008 to 2024 .This analysis is done to find weather nifty will give positive or negative return in the coming months.The data was gathered using a python script which is in the file Nifty data.py
+The file name banknifty_price_data.xlsx does the same but for bank nifty.The data was gathered using the python script which is mentioned in the repository by the name bank nifty data.py
